@@ -1,7 +1,7 @@
 
 
 body {
-    background-color: rgba(153, 50, 204, 0.817);
+    background-color: rgba(247, 4, 4, 0.817);
     margin: 0px
 }
 
@@ -14,10 +14,10 @@ nav a {
     justify-content: center;
 }
 h1 {
-    color: darkturquoise;
+    color: rgb(6, 6, 10);
     padding-top: 5%;
 }
-.unicornio {
+.FIFI {
     font-style: italic;
 }
 
